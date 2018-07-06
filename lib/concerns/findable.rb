@@ -11,9 +11,6 @@ module Findable
 end
 
 
-def to_param
-    name.downcase.gsub(' ', '-')
-  end
   
   
 
