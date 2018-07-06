@@ -9,9 +9,4 @@ module Findable
   
  
 end
-
-
-  
-  
-
 end
